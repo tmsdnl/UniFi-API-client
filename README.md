@@ -38,6 +38,7 @@ Support for UniFi OS-based controllers has been added as of version 1.1.47. Thes
 - UniFi Cloud Console, details [here](https://help.ui.com/hc/en-us/articles/4415364143511)
 - UniFi Express (UX)
 - UniFi Dream Wall (UDW)
+- UniFi Cloud Gateway Max (UCG-Max)
 - UniFi Cloud Gateway Ultra (UCG-Ultra)
 - UniFi Enterprise Fortress Gateway (EFG)
 
